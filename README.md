@@ -1,4 +1,4 @@
-# pharmacy-data-analysis
+# Pharmacy Data Analysis
 
 ## Project Overview
 This project simulates a real-world pharmacy database system. It includes the creation of normalized relational tables (`category`, `supplier`, `medicine`, `purchase`, `sale`), data insertion, and a series of business-oriented Oracle SQL queries to extract valuable insights regarding inventory levels, supplier performance, and sales tracking.
